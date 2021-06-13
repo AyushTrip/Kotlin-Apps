@@ -11,4 +11,4 @@
 </p><br>
 
 ## Kotlin
-**This is a beginner app built in Android Studio using Kotlin.** This app features a simple UI that allows the user to roll a dice to generate an image and number from one to six. This app was built and tested using the built in Android Emulator using Intel Virtualization technology (it can be enabled in BIOS).
+**These are beginner basic apps built in Android Studio using Kotlin.** This app was built and tested using the built in Android Emulator using Intel Virtualization technology (it can be enabled in BIOS).
