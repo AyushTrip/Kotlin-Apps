@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="about_me_name">Ayush Tripathi</string>
+
+    <string name="bio"> Hello. My name is Ayush. I like to code and do fun things.
+        \n\nThe stuff here is purposely spaced so that I can test the ScrollView.
+        \n\nThis is also a way for me to test spacing in the emulator. Can I talk more this is the third
+        \n\ntime that I have to create more newlines so that it can actually do something
+        \n\nfor me to actually test it out. \n\n
+        \n\nThis is pretty useless ngl.
+        \n\nOK we are almost done I just need a few more lines.
+        \n\nAre we done yet? OK nice to meet you. Good bye.\n\n
+    </string>
+
+    <string name="hint">What is your nickname?</string>
+    <string name="DoneButton">Done</string>
+
+</resources>

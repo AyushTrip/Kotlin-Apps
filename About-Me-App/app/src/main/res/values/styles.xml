@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NameStyle">
+        <item name="android:fontFamily">@font/roboto_thin</item>
+        <item name="android:paddingTop">@dimen/small_padding</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:layout_marginTop">@dimen/layout_margin</item>
+    </style>
+
+    <style name="NameStyle2" parent="NameStyle">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+        <item name="android:paddingStart">@dimen/padding</item>
+        <item name="android:paddingEnd">@dimen/padding</item>
+    </style>
+
+
+</resources>
